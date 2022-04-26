@@ -5,6 +5,7 @@ The aim of this project is to build a regression model to predict the price of H
 [data.gov](https://data.gov.sg/dataset/resale-flat-prices)
 
 ## Data Dictionary:
+
 | No. |         Name        |        Title        |                                                           Type                                                          | Unit of Measure |               Description              |
 |:---:|:-------------------:|:-------------------:|:-----------------------------------------------------------------------------------------------------------------------:|:---------------:|:--------------------------------------:|
 | 1   | month               | Month               |              Datetime (Month)                                            "YYYY-MM"                                      | -               |                           -            |
@@ -23,4 +24,5 @@ The aim of this project is to build a regression model to predict the price of H
 ## Tableau Dashboards
 
 [HDB Resale Price History](https://public.tableau.com/app/profile/ng.chee.yuan/viz/ResaleFlatPriceHistory/Dashboard1?publish=yes)
+
 [link to interactive webpage](https://ngcheeyuan.github.io/)
